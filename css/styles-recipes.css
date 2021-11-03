@@ -26,6 +26,10 @@ ul {
     color: cyan;
 }
 
+li {
+    color: black;
+}
+
 .page {
     color: azure;
     background-color: darkblue;
