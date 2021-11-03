@@ -1,0 +1,52 @@
+div {
+    background-color: azure;
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+h1 {
+    background-color: tomato;
+    font-weight: 1000;
+}
+
+img {
+    height: auto;
+    width: 300px;
+    margin: 0 auto;
+    border: 2px solid aquamarine;
+}
+
+.page {
+    color: azure;
+    background-color: darkblue;
+}
+
+.header {
+    color: rgb(70, 59, 2);
+}
+
+.description {
+    color: black;
+    background-color: lightblue;
+}
+
+.ingredients {
+    color: black;
+    background-color: cyan;
+}
+
+.steps {
+    color: black;
+    background-color: darkslateblue;
+}
+
+.footer {
+    color: black;
+    background-color: tomato;
+}
