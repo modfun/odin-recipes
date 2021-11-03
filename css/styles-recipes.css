@@ -22,6 +22,10 @@ img {
     border: 2px solid aquamarine;
 }
 
+ul {
+    color: cyan;
+}
+
 .page {
     color: azure;
     background-color: darkblue;
@@ -37,7 +41,7 @@ img {
 }
 
 .ingredients {
-    color: cyan;
+    color: black;
     background-color: cyan;
 }
 
