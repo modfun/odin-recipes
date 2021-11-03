@@ -24,6 +24,7 @@ img {
 
 ul {
     color: cyan;
+    list-style: none;
 }
 
 li {
